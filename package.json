@@ -1,0 +1,14 @@
+{
+  "name": "crabbot",
+  "version": "1.0.0",
+  "description": "crabbot rules all, sees all, knows all",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Gause",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
